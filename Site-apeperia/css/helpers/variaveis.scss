@@ -1,0 +1,12 @@
+
+//variaveis usadas no meu SASS
+$cor-padrao: darken(#c24e4b, 30%);
+//espera sempre dois argumentos.
+$cor-auxiliar: lighten(#1e2c35, 2%);
+//adjust-hue(); saturate(); complement(); outras funcoes de cores.
+$cor-branca: #fff;
+
+$mq-mobile: "(max-width: 980px)";
+//para concatenar, declarar: #{$mq-mobile};
+
+$tamanho-fonte-padrao: 16px;
